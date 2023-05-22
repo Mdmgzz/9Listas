@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class Main05 {
+	
 
 	public static void main(String[] args) {
 		int op = 0;
@@ -58,6 +59,7 @@ public class Main05 {
 			}
 			case 4:{
 				System.out.println("Saliendoooou");
+				break;
 			}
 			default:
 				System.out.println("Opción ERRONEA.");
